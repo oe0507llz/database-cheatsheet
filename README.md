@@ -10,3 +10,10 @@ https://www.w3schools.com/python/python_mysql_getstarted.asp
 
 #### SQL Injection in Django Applications
 https://www.linkedin.com/pulse/sql-injection-django-applications-jerin-jose/
+
+#### MySQL tutorial
+```
+mysql -u root -h localhost -p
+SHOW DATABASES;
+mysqldump -u root -p wordpress > wordpress.sql
+```
